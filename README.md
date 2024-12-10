@@ -1,4 +1,4 @@
-# Treatment Effectiveness Analysis of Various AIDs Treatments
+# AIDs Treatment Effectiveness: Monotherapy vs. Combination Therapy
 
 ## Introduction
 
