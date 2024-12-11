@@ -59,7 +59,6 @@ These analyses are implemented in the notebook `2_treatment_effectiveness.ipynb`
 ## Dependencies
 
 This project uses the following libraries and tools:
-- `numpy`
 - `pandas`
 - `matplotlib`
 - `seaborn`
