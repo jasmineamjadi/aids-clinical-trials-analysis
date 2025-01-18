@@ -52,7 +52,7 @@ The analysis focuses on the following:
    - A Chi-Square test is performed to evaluate the relationship between therapy types and failure events.
 
 3. **Visualization**:
-   -  A graphical representation is used to illustrate differences in treatment outcomes across the therapies.
+   -  A bar graph is used to illustrate differences in treatment outcomes across the therapies.
 
 These analyses are implemented in the notebook `2_treatment_effectiveness.ipynb`.
 
